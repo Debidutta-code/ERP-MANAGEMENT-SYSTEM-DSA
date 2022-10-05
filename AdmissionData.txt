@@ -1,0 +1,61 @@
+NAME = debidutta acharya
+REG. NO = 200301120180
+COURSE = btech
+BRANCH = cse
+MOBILE NO. = 6371875968
+-----------------------------
+NAME = debidutta acharya
+REG. NO = 200301120180
+COURSE = btech
+BRANCH = cse
+MOBILE NO. = 6371875968
+
+-----------------------------
+-----------------------------
+NAME = habib rehaman
+REG. NO = 200301120126
+COURSE = btech
+BRANCH = cse
+MOBILE NO. = 6371875968
+
+-----------------------------
+-----------------------------
+NAME = biswopati samal
+REG. NO = 200301120178
+COURSE = btech
+BRANCH = cse
+MOBILE NO. = 6371875968
+
+-----------------------------
+-----------------------------
+NAME = debidutta acharya
+REG. NO = 200301120180
+COURSE = btech
+BRANCH = cse
+MOBILE NO. = 6371875968
+
+-----------------------------
+-----------------------------
+NAME = swadhin mishra
+REG. NO = 200301120180
+COURSE = btech
+BRANCH = cse
+MOBILE NO. = 6381342345
+
+-----------------------------
+-----------------------------
+NAME = deepan behera
+REG. NO = 200301120166
+COURSE = btech
+BRANCH = cse
+MOBILE NO. = 6371875968
+
+-----------------------------
+-----------------------------
+NAME = debidutta acharya
+REG. NO = 200301120180
+COURSE = cse
+BRANCH = btech
+MOBILE NO. = 6371875968
+
+-----------------------------
